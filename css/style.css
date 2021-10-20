@@ -257,10 +257,30 @@ footer {
 
 
 .ita > h4 {
-    display: inline-block;
+    display: block;
     font-size: 2em;
     color: RGB(88, 101, 242);
     margin-top: 2.5em;
+}
+
+.ita img {
+    width: 1.7vw;
+    margin: 1em 0;
+    vertical-align: -1.3em;
+}
+
+.ita span {
+    color: white;
+    font-size: 0.7em;
+}
+
+#symbol {
+    font-size: 0.3em;
+}
+
+.social i {
+    color: white;
+    margin: 0 0.5em;
 }
 
 .lists {
